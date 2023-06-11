@@ -127,7 +127,7 @@ gumroad.updateOffer("product-id", "offer-id", {
 
 ## Licenses
 
-Reference: https://help.gumroad.com/customer/portal/articles/1579327-license-keys
+Reference: [https://help.gumroad.com/article/76-license-keys](https://help.gumroad.com/article/76-license-keys)
 
 #### Verify a license key
 
